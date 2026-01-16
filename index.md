@@ -5,19 +5,6 @@
 
 ---
 
-### 📌 Quick Navigation
-| Section | Focus |
-| :--- | :--- |
-| [1. The Golden Rule](#-1-the-golden-rule) | Core Philosophy |
-| [2. General Conduct](#️-2-general-conduct) | Community Standards |
-| [3. RP Principles](#-3-roleplay-principles) | NVL, NLR, & Meta |
-| [4. Crime & Combat](#-4-crime--combat) | Initiation & Safe Zones |
-| [5. Police & Realism](#-5-police--realism) | MET & UK Immersion |
-| [6. Discord Rules](#-6-discord-rules) | Out-of-Game Conduct |
-| [7. Staff & Disputes](#️-7-staff--disputes) | Reports & Evidence |
-
----
-
 ### 📌 1. THE GOLDEN RULE
 Deadlock UK is a **Serious RP** community. Quality storytelling and immersion are our top priorities. "Winning" is secondary to providing a realistic experience. **Play the character, not the mechanics.**
 
